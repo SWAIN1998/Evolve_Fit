@@ -1,5 +1,6 @@
 # Evolve_Fit
 Meal Planner using Node.js, Express.js and MongoDB
+
 LEVEL 1 – Schema Design
  Make a new project and setup MongoDB server. Design Mongoose Schema according to the following –
 o Food Item (all data per 100g)– name, calories, protein, carb, fat, acceptedUnits (array of enum of
